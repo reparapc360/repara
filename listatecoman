@@ -1,4 +1,177 @@
 
+
+#EXTM3U
+#EXTVLCOPT–http-reconnect=true
+#EXTINF:0,#0
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://185.39.9.2/live/tvb118/playlist.m3u8
+#EXTINF:0,CANAL+ACCION
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv11/chunklist.m3u8
+#EXTINF:0C+,ESTRENOS
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/chunklist.m3u8
+#EXTINF:0,DCINE
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv22/chunklist.m3u8
+#EXTINF:0, C+COMEDIA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv13/chunklist.m3u8
+#EXTINF:0,AMC
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv20/chunklist.m3u8
+#EXTINF:0,HOLLYWOOD
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv5/playlist.m3u8
+#EXTINF:0,AXN
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/axn_alwla94/chunklist.m3u8
+#EXTINF:0,Canal+ Futbol
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb112/playlist.m3u8
+#EXTINF:0,BEIN ES
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/bein_alwkqfq/chunklist.m3u8
+#EXTINF:0,Canal+ Liga
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb111/playlist.m3u8
+#EXTINF:0,Canal+ DEPORTES
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/deportes_alxadw6/chunklist.m3u8
+#EXTINF:0,Canal+ DEPORTES 2
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/plusdeportes2_abkc5yy/chunklist.m3u8
+#EXTINF:0,BEIN
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/bein_alwkqfq/chunklist.m3u8
+#EXTINF:0,Bein France 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb122/playlist.m3u8
+#EXTINF:0,Bein France 2
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb123/playlist.m3u8
+#EXTINF:0,Bein France 3
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb124/playlist.m3u8
+#EXTINF:0,BT Sport 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb137/playlist.m3u8
+#EXTINF:0,BT Sport 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb136/playlist.m3u8
+#EXTINF:0,Canal+ Sport
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb125/playlist.m3u8
+#EXTINF:0,Canali wtp
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb160/playlist.m3u8
+#EXTINF:0,Channel 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb138/playlist.m3u8
+#EXTINF:0,Moviestar F1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb116/playlist.m3u8
+#EXTINF:0,Moviestar GP
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb117/playlist.m3u8
+#EXTINF:0,S D3
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb126/playlist.m3u8
+#EXTINF:0,Sky Sports 1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb130/playlist.m3u8
+#EXTINF:0,Sky Sports 2
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb131/playlist.m3u8
+#EXTINF:0,Sky Sports 5
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tvb134/playlist.m3u8
+#EXTINF:0, TOROS
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/toros_9frbv56/chunklist.m3u8
+#EXTINF:0, ANTENA 3
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/antena3_9dm4nop/chunklist.m3u8
+#EXTINF:0,CUATRO
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/cuatro_xrf2a3/chunklist.m3u8
+#EXTINF:0,TELE5
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/telecinco55_ao7nqiq/playlist.m3u8
+#EXTINF:0,SEXTA
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-p.m3u8
+#EXTINF:0,NEOX
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/neox_alwkw2n/playlist.m3u8
+#EXTINF:0,NOVA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/nova2_acolsfq/playlist.m3u8
+#EXTINF:0,ENERGY
+http://mediasethls-lh.akamaihd.net/i/mitele/energy_g@393137/index_500_av-p.m3u8
+#EXTINF:0,DIVINITY
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/diniiiii_9fil4ag/playlist.m3u8
+#EXTINF:0,TNT
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/tnt_alwl3qm/chunklist.m3u8
+#EXTINF:0,FOX
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/fox_alwk17k/chunklist.m3u8
+#EXTINF:0,FOX LIFE
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv6/chunklist.m3u8
+#EXTINF:0,CALLE 13
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv14/chunklist.m3u8
+#EXTINF:0,COSMO
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/cosmo_a894omv/chunklist.m3u8
+#EXTINF:0,MTV
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/mtv_alwkh45/chunklist.m3u8
+#EXTINF:0,SYFY
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv2/chunklist.m3u8
+#EXTINF:0,MEGA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/megatdt_9o35160/chunklist.m3u8
+#EXTINF:0,GEOGRAPIC
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/national_alwka53/playlist.m3u8
+#EXTINF:0,CAZA PESCA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv8/playlist.m3u8
+#EXTINF:0,DISCOVERY
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/discoverydino_9dm3fgv/chunklist.m3u8
+#EXTINF:0,ODISEA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/odiseass_ab1rhro/chunklist.m3u8
+#EXTINF:0,A&E
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv17/chunklist.m3u8
+#EXTINF:0,GRAN HER-VIP
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/gh16hd_a085bf2/chunklist.m3u8
+#EXTINF:0,EURO SPORT-1
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/eurosport1_aiyry92/playlist.m3u8
+#EXTINF:0,GEOGRAPIC-wild
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/iptv4/chunklist.m3u8
+#EXTINF:0,CRIMEN INVESTIGACION
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/ci_aaqtqg7/chunklist.m3u8
+#EXTINF:0,COCINA
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/cocina_am9cifh/chunklist.m3u8
+#EXTINF:0,DISCOVERY MAX
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/dismax_9c7n25t/chunklist.m3u8
+#EXTINF:0,C+,ESTRENOS
+#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
+http://cdn.sstream.pw/live/estrenos_a7tf6np/chunklist.m3u8
+
 #EXTM3U
 #EXTM3U By Black Puppy
 
