@@ -3,6 +3,39 @@
 #EXTM3U
 #EXTVLCOPT–http-reconnect=true
 
+ http://selling01.ddns.net:8000/live/samsung/samsung/608.m3u8
+#EXTINF:0, HOTCLUB 2 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/609.m3u8
+#EXTINF:0, HOTCLUB 3 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/610.m3u8
+#EXTINF:0, HOTCLUB 4 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/611.m3u8
+#EXTINF:0, HOTCLUB 5 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/612.m3u8
+#EXTINF:0, HOTCLUB 6 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/613.m3u8
+#EXTINF:0, HOTCLUB 7 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/614.m3u8
+#EXTINF:0, HOTCLUB 8 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/615.m3u8
+#EXTINF:0, HOTCLUB 9 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/616.m3u8
+#EXTINF:0, HOTCLUB 10 HD
+http://selling01.ddns.net:8000/live/samsung/samsung/617.m3u8
+#EXTINF:0, HOT
+http://selling01.ddns.net:8000/live/samsung/samsung/1774.m3u8
+#EXTINF:0,#EXTINF:-1,18+ PLAYBOY TV
+http://selling01.ddns.net:8000/live/samsung/samsung/1773.m3u8
+#EXTINF:0, Dorcel TV
+http://selling01.ddns.net:8000/live/samsung/samsung/1273.m3u8
+#EXTINF:0,  Dorcel
+http://selling01.ddns.net:8000/live/samsung/samsung/1368.m3u8
+#EXTINF:0, SCT HD
+http://selling01.ddns.net:8000/live/samsung/samsung/1363.m3u8
+#EXTINF:0, SCT
+http://selling01.ddns.net:8000/live/samsung/samsung/1369.m3u8
+#EXTINF:0, PRIVATE
+http://selling01.ddns.net:8000/live/samsung/samsung/593.m3u8
 
 
 #EXTINF:-1,TRU TV
