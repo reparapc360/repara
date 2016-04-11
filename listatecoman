@@ -2,16 +2,7 @@
 
 #EXTM3U
 #EXTVLCOPT–http-reconnect=true
-#EXTINF:0,#0
-#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
-http://185.39.9.2/live/tvb118/playlist.m3u8
-#EXTINF:0,CANAL+ACCION
-#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
-http://cdn.sstream.pw/live/iptv11/chunklist.m3u8
-#EXTINF:0C+,ESTRENOS
-#EXTVLCOPT:http-referrer=http://www.playerhd2.pw
-http://cdn.sstream.pw/live/plusestrenos_ahnxk7j/chunklist.m3u8
-#EXTINF:0,DCINE
+
 #EXTVLCOPT:http-referrer=http://www.playerhd2.pw
 http://cdn.sstream.pw/live/iptv22/chunklist.m3u8
 #EXTINF:0, C+COMEDIA
@@ -287,11 +278,6 @@ rtsp://edge2.everyon.tv/etv2/phd1006
 #EXTINF:-1,LATIN LIVE SEX
 http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
 
-#EXTINF:-1, PASSION XXX
-http://q.gs/9830047/sex3todokodi
-
-#EXTINF:-1, OKADAI HD
-http://edge2.everyon.tv:1935/etv2/phd1003/paz.m3u8
 
 #EXTINF:0,JASMIN
 rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
@@ -373,70 +359,6 @@ http://iptvbox.noip.us:9998/live/atik/atik/1528.m3u8
 #EXTINF:0,TVM 2 Malta
 #EXTGRP:unsorted
 http://iptvbox.noip.us:9998/live/atik/atik/978.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<<<<[/COLOR][COLOR red]LISTA RAFA [/COLOR][COLOR blue]>>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
-http://?
-
-#EXTINF:-1,[I][B][COLOR green] <<<<<<<<<<<<<<< UPDATE 03-24-2016 >>>>>>>>>>>>>>>[/COLOR][/B][/I]
-http://?
-
-#EXTINF:-1,[I][B][COLOR blue]<<<<<<<<<<<<<<<<<< [/COLOR][COLOR green]ATTENTION[/COLOR][COLOR blue] >>>>>>>>>>>>>>>>>[/COLOR][/B][/I]
-http://?
-
-#EXTINF:-1,[I][B][COLOR yellow]Esto es el resultado de muchas horas de trabajo[/COLOR][/B][/I]
-http://?
-
-#EXTINF:-1,[I][B][COLOR yellow]investigación a través de Internet.[/COLOR][/B][/I]
-http://?
-
-#EXTINF:-1,[I][B][COLOR yellow]Una pequeña donación.Son los pequeños gestos que marcan la diferencia.[/COLOR][/B][/I]
-http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1,[I][B][COLOR lime]DONACION: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LY9QXRMMK4K6C[/COLOR][/B][/I]
-http://live.mvdigital.net:1935/live6/livestream1.sdp/playlist.m3u8
-
-#EXTINF:-1,[COLOR lime]---USA---[/COLOR]
-http://?
 
 #EXTINF:0,Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
