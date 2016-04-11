@@ -2,214 +2,6 @@
 
 #EXTM3U
 #EXTVLCOPT–http-reconnect=true
-#EXTINF:-1,Discovery Teather
-http://mariocs-tv.servehttp.com/tp.php?ch=207&cl=03
-#EXTINF:-1,Universal Channel
-http://mariocs-tv.servehttp.com/tp.php?ch=351&cl=03
-#EXTINF:-1,Canal de las Estrellas
-http://mariocs-tv.servehttp.com/tp.php?ch=52&cl=03
-#EXTINF:-1,Canal Trece
-http://mariocs-tv.servehttp.com/tp.php?ch=57&cl=03
-#EXTINF:-1,Galavision
-http://mariocs-tv.servehttp.com/tp.php?ch=109&cl=03
-#EXTINF:-1,FOX
-http://mariocs-tv.servehttp.com/tp.php?ch=201&cl=03
-#EXTINF:-1,SONY
-http://mariocs-tv.servehttp.com/tp.php?ch=203&cl=03
-#EXTINF:-1,AXN
-http://mariocs-tv.servehttp.com/tp.php?ch=213&cl=03
-#EXTINF:-1,Tru HD
-http://mariocs-tv.servehttp.com/tp.php?ch=215&cl=03
-#EXTINF:-1,BBC Entertaiment
-http://mariocs-tv.servehttp.com/tp.php?ch=253&cl=03
-#EXTINF:-1,E!
-http://mariocs-tv.servehttp.com/tp.php?ch=255&cl=03
-#EXTINF:-1,Studio Universal
-http://mariocs-tv.servehttp.com/tp.php?ch=261&cl=03
-#EXTINF:-1,Investigation Discovery
-http://mariocs-tv.servehttp.com/tp.php?ch=263&cl=03
-#EXTINF:-1,TNT Series
-http://mariocs-tv.servehttp.com/tp.php?ch=266&cl=03
-#EXTINF:-1,Fox Life
-http://mariocs-tv.servehttp.com/tp.php?ch=271&cl=03
-#EXTINF:-1,Distrito Comedia
-http://mariocs-tv.servehttp.com/tp.php?ch=272&cl=03
-#EXTINF:-1,TLnovelas
-http://mariocs-tv.servehttp.com/tp.php?ch=275&cl=03
-#EXTINF:-1,Discovery Kids
-http://mariocs-tv.servehttp.com/tp.php?ch=303&cl=03
-#EXTINF:-1,Disney Jr
-hhttp://mariocs-tv.servehttp.com/tp.php?ch=308&cl=03
-#EXTINF:-1,Disney Channel
-http://mariocs-tv.servehttp.com/tp.php?ch=312&cl=03
-#EXTINF:-1,Nicktoons
-http://mariocs-tv.servehttp.com/tp.php?ch=314&cl=03
-#EXTINF:-1,Nick 
-http://mariocs-tv.servehttp.com/tp.php?ch=315&cl=03
-#EXTINF:-1,Cartoon Network
-http://mariocs-tv.servehttp.com/tp.php?ch=320&cl=03
-#EXTINF:-1,Disney XD
-http://mariocs-tv.servehttp.com/tp.php?ch=322&cl=03
-#EXTINF:-1,Tooncast
-http://mariocs-tv.servehttp.com/tp.php?ch=322&cl=03
-#EXTINF:-1,History Channel
-http://mariocs-tv.servehttp.com/tp.php?ch=353&cl=03
-#EXTINF:-1,NatGeo Wild
-http://mariocs-tv.servehttp.com/tp.php?ch=355&cl=03
-#EXTINF:-1,Discovery Channel
-http://mariocs-tv.servehttp.com/tp.php?ch=371&cl=03
-#EXTINF:-1,Discovery HyH
-http://mariocs-tv.servehttp.com/tp.php?ch=374&cl=03
-#EXTINF:-1,National Geographic
-http://mariocs-tv.servehttp.com/tp.php?ch=377&cl=03
-#EXTINF:-1,Discovery TLC
-http://mariocs-tv.servehttp.com/tp.php?ch=386&cl=03
-#EXTINF:-1,FOX1
-http://mariocs-tv.servehttp.com/tp.php?ch=415&cl=03
-#EXTINF:-1,FOX ACTION
-http://mariocs-tv.servehttp.com/tp.php?ch=416&cl=03
-#EXTINF:-1,FOX MOVIES
-http://mariocs-tv.servehttp.com/tp.php?ch=417&cl=03
-#EXTINF:-1,CINECANAL
-http://mariocs-tv.servehttp.com/tp.php?ch=430&cl=03
-#EXTINF:-1,TNT
-http://mariocs-tv.servehttp.com/tp.php?ch=435&cl=03
-#EXTINF:-1,Golden
-http://mariocs-tv.servehttp.com/tp.php?ch=436&cl=03
-#EXTINF:-1,Space
-http://mariocs-tv.servehttp.com/tp.php?ch=445&cl=03
-#EXTINF:-1,Azteca 7 
-http://mariocs-tv.servehttp.com/tp.php?ch=481&cl=03
-#EXTINF:-1,Golden Edge
-http://mariocs-tv.servehttp.com/tp.php?ch=484&cl=03
-#EXTINF:-1,AMC
-http://mariocs-tv.servehttp.com/tp.php?ch=490&cl=03
-#EXTINF:-1,TCM
-http://mariocs-tv.servehttp.com/tp.php?ch=496&cl=03
-#EXTINF:-1,ESPN +
-http://mariocs-tv.servehttp.com/tp.php?ch=516&cl=03
-#EXTINF:-1,ESPN 3 INGLES
-http://mariocs-tv.servehttp.com/tp.php?ch=520&cl=03
-#EXTINF:-1,FOX Sports
-http://mariocs-tv.servehttp.com/tp.php?ch=522&cl=03
-
-
-************************************************************
-
-
-#EXTINF:-1, BRAZZERS
-http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
-
-#EXTINF:-1, OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-
-#EXTINF:0, Live Ting Tv
-rtsp://edge2.everyon.tv/etv2/phd1006
-
-#EXTINF:-1,LATIN LIVE SEX
-http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
-
-
-#EXTINF:0,JASMIN
-rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
-
-#EXTINF:-1,CS Sex +18 ADULT
-mmsh://tv.webmisto.cz:7000
-
-
-
-*************************************************************
-
-
-#EXTINF:0,Canal  Futbol
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
-#EXTINF:0,Canal  Liga 2
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/854.m3u8
-#EXTINF:0,Canal  Deportes
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
-#EXTINF:0,Canal  Partidazo
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/858.m3u8
-#EXTINF:0,ES.Canal Xtra
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/586.m3u8
-#EXTINF:0,ES: Calle 13
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/276.m3u8
-#EXTINF:0,BeIN Sporm3u8 Ñ
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
-#EXTINF:0,ES: Canal
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/272.m3u8
-#EXTINF:0,ES: Canal  Accion
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/262.m3u8
-#EXTINF:0,ES: Canal  Comedia
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/275.m3u8
-#EXTINF:0,ES: Canal  DCine
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/261.m3u8
-#EXTINF:0,ES: Canal  Liga
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
-#EXTINF:0,ES: Canal Futbol
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
-#EXTINF:0,ES: Canal Series
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/268.m3u8
-#EXTINF:0,ES: Canal_DEPORTES
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/618.m3u8
-#EXTINF:0,ES: FOX HD
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-#EXTINF:0,ES: Hollywood
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/263.m3u8
-#EXTINF:0,ES: NAT GEO
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/267.m3u8
-#EXTINF:0,ES: Telecinco
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/269.m3u8
-#EXTINF:0,ES:Canal.Estrenos
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/587.m3u8
-#EXTINF:0,ES;C Deportes
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/588.m3u8
-#EXTINF:0,***** SPANISH *****
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/1528.m3u8
-#EXTINF:0,TVM 2 Malta
-#EXTGRP:unsorted
-http://iptvbox.noip.us:9998/live/atik/atik/978.m3u8
-
-#EXTINF:0,Telemundo
-http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
-#EXTINF:0,TELEMUNDO
-http://iphone-streaming.ustream.tv/ustreamVideo/21733416/streams/live/playlist.m3u8
-
-#EXTINF:0,UNIVISION 1
-http://iphone-streaming.ustream.tv/ustreamVideo/21680354/streams/live/playlist.m3u8
-
-EXTINF:0,[COLOR blue]Fox[/COLOR]
-http://iptvbox.noip.us:9998/live/atik/atik/264.m3u8
-#EXTINF:0,Miami TV
-http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
-#EXTINF:0,Miami TV Music
-http://74.208.152.93/music/stream3/stream.m3u8
-
-#EXTINF:0,Discovery Channel
-http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="Total-MX_I251.5022.tutvguia.com" tvg-name="251_FOX251FOXFox_International_(Mexico)" tvg-logo="fox.png" group-title="Latino",Fox
 http://vod.cdn.iutpcdn.com:80:81:237/LIVE/H01/CANAL201/PROFILE05.m3u8?totalplay=%2F.ts
 #EXTINF:-1 tvg-id="Total-MX_I252.5048.tutvguia.com" tvg-name="252_SONY252SONYSony_Entertainment_Television_(Mexico)" tvg-logo="sony.png" group-title="Latino",Sony HD
@@ -1462,6 +1254,24 @@ http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/cpac1flr2014_01@51230/index_2000_av-p.m3u8
 
 
+#EXTINF:-1, BRAZZERS
+http://4BA9EBDB07C05883:@5.159.96.170:8000/brazzers
+
+#EXTINF:-1, OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+
+#EXTINF:0, Live Ting Tv
+rtsp://edge2.everyon.tv/etv2/phd1006
+
+#EXTINF:-1,LATIN LIVE SEX
+http://178.33.126.213:1935/leved/livesexlatinas/chunklist.m3u8?
+
+
+#EXTINF:0,JASMIN
+rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
+
+#EXTINF:-1,CS Sex +18 ADULT
+mmsh://tv.webmisto.cz:7000
 
 
 
