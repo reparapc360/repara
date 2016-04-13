@@ -1,6 +1,8 @@
 ﻿#EXTM3U
 #EXTVLCOPT–http-reconnect=true
- 
+ #EXTINF:-1, MiamiTV
+rtmp://k4.usastreams.com/miamitv/miamitv
+
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png/revision/latest?cb=20121218202819" tvg-name="Telemundo"  group-title="ESPAÑOL",Telemundo
 http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
 
