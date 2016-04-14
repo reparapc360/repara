@@ -1,7 +1,1034 @@
 
 #EXTM3U
 #EXTVLCOPT–http-reconnect=true
- 
+ ﻿#EXTM3U
+#EXTVLCOPT–http-reconnect=true
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i62.tinypic.com/2py9nhx.jpg" tvg-name="Canal De Las Estrellas"  group-title="CANALES",Canal De Las Estrellas
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMTUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Azteca_7_Network_logo.PNG" tvg-name="Azteca 7 HD"  group-title="CANALES",Azteca 7 HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMjAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Logo_Azteca_13_XHDF_2011.svg/150px-Logo_Azteca_13_XHDF_2011.svg.png" tvg-name="Azteca 13"  group-title="CANALES",Azteca 13
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMjYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/doblaje/images/b/b8/Logotipo_actual_del_canal_5_(mexico).png" tvg-name="Canal 5"  group-title="CANALES",Canal 5
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMTc1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn.macrage.com/sites/macrage.com/files/styles/large/public/2014/04/21/ae-logo.JPG?itok=Pf5m4_v3" tvg-name="A&E"  group-title="CANALES",A&E
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pmcvariety.files.wordpress.com/2014/08/amc-logo.jpg?w=1000&h=669&crop=1" tvg-name="AMC HD"  group-title="CANALES",AMC HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjAzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSl3CJV9kmcb9NyElmmqPKCMECKWBRkB6zhv1wOLlMkkgUsi5p5" tvg-name="Animal Planet"  group-title="CANALES",Animal Planet
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTIzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logosfake/images/b/b8/AXN_HD.png/revision/latest?cb=20140311160901" tvg-name="AXN HD"  group-title="CANALES",AXN HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i2.esmas.com/2015/04/08/758918/mas-alla-de-la-fama-624x468.jpg" tvg-name="Bandamax"  group-title="CANALES",Bandamax
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNzMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://olevision.com/wp-content/uploads/2013/10/BBC-logo.png" tvg-name="BBC"  group-title="CANALES",BBC
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzg3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.underconsideration.com/brandnew/archives/boomerang_logo_detail.png" tvg-name="Boomerang"  group-title="CANALES",Boomerang
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDkxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://television-envivo.net/wp-content/uploads/proyecto-40-en-vivo2.png" tvg-name="Proyecto 40"  group-title="CANALES",Proyecto 40
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMjk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/cartoonnetwork/images/0/04/Cartoon_Network_Logo.jpg/revision/latest?cb=20100607024816" tvg-name="Cartoon Network"  group-title="CANALES",Cartoon Network
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://orig12.deviantart.net/0fdc/f/2015/117/8/c/cbeebies_logo_by_danbaz-d8r8ozf.jpg" tvg-name="Cbeebies"  group-title="CANALES",Cbeebies
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gzeWakw7wfE/VcX6NErpBzI/AAAAAAAADR4/DTd5z8jULV4/s1600/cinecanal%2Blogo.png" tvg-name="Cinecanal"  group-title="CANALES",Cinecanal
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjExJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-gzeWakw7wfE/VcX6NErpBzI/AAAAAAAADR4/DTd5z8jULV4/s1600/cinecanal%2Blogo.png" tvg-name="Cinecanal + HD"  group-title="CANALES",Cinecanal + HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTgzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://3.bp.blogspot.com/-jAh4z6gmL0k/TsaA1S0OH4I/AAAAAAAARCk/ujjRXP-gaFM/s1600/cinemax.png" tvg-name="Cinemax"  group-title="CANALES",Cinemax
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/Comedy_Central_2011_Logo.svg" tvg-name="Comedy Central"  group-title="CANALES",Comedy Central
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUxHfoRF5e9NviNfb6Gg5aw_rwrTmHhmcKkNOAcU_EqT5G-vMrjw" tvg-name="De pelicula HD"  group-title="CANALES",De pelicula HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTk5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="discovery%20channel.png" tvg-name="Discovery Channel"  group-title="CANALES",Discovery Channel
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTE5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/38/Discovery_Civilization_1998.png/revision/latest?cb=20091112185125" tvg-name="Discovery Civilization"  group-title="CANALES",Discovery Civilization
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/peppapedia/images/c/c0/Discoverykidslogo.png/revision/latest?cb=20131208183613&path-prefix=es" tvg-name="Discovery Kids"  group-title="CANALES",Discovery Kids
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/Discovery_Science_Canada_2011.PNG" tvg-name="Discovery Science"  group-title="CANALES",Discovery Science
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTM5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png" tvg-name="Discovery Turbo"  group-title="CANALES",Discovery Turbo
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTQ3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/f/f2/Discovery_World_2009.png/revision/latest?cb=20091111164212" tvg-name="Discovery World"  group-title="CANALES",Discovery World
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette3.wikia.nocookie.net/equestriagirls/images/9/97/2014_Disney_Channel_Logo.svg.png/revision/latest?cb=20140823200544&path-prefix=es" tvg-name="Disney Channel"  group-title="CANALES",Disney Channel
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDY3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.underconsideration.com/brandnew/archives/disney_junior_04.jpg" tvg-name="Disney Jr"  group-title="CANALES",Disney Jr
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/totaldramaisland/images/b/bc/Disney--XD-Logo-web.jpg/revision/latest?cb=20100617161600" tvg-name="Disney XD"  group-title="CANALES",Disney XD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDg3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Logo_Distrito_Comedia.png" tvg-name="Distrito Comedia"  group-title="CANALES",Distrito Comedia
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDMxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/1/14/E!_logo.svg/revision/latest?cb=20100323080652" tvg-name="E!"  group-title="CANALES",E!
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzkxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://i.imgur.com/8zwTAtt.png" tvg-name="El Gourmet"  group-title="CANALES",El Gourmet
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDE1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://2.bp.blogspot.com/-tqu--a1mggI/UKkjQ3tVaII/AAAAAAAAFCA/xGnl5Z8wtFo/s1600/Logo+ESPN++.png" tvg-name="ESPN +"  group-title="CANALES",ESPN +
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjUxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://mmagdl.zheworldsadecv.netdna-cdn.com/wp-content/uploads/2015/09/espn-logo.jpg" tvg-name="ESPN"  group-title="CANALES",ESPN
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjcxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://1.bp.blogspot.com/-zfWmwT9TWQA/VO_8EqdcFwI/AAAAAAAABgc/F4ZIp0AfzXU/s1600/ESPN%2B2%2B%2Ben%2Bvivo%2Bonline%2Bon%2Bline.png" tvg-name="ESPN 2"  group-title="CANALES",ESPN 2
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjc1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://4.bp.blogspot.com/-DymZ61_LGYk/UTJ_VauB51I/AAAAAAAAOCM/Vf8UokCuY-E/s1600/Logo+ESPN+3+By+Bauti.png" tvg-name="ESPN 3"  group-title="CANALES",ESPN 3
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjU1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://logos-vector.com/images/logo/xxl/1/7/3/173019/Foro_TV_97fbd_450x450.png" tvg-name="Foro TV"  group-title="CANALES",Foro TV
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.redempresariosvisa.com/Content/images/ideas/notas/T17820121130largeNote6.jpg" tvg-name="FOX HD"  group-title="CANALES",FOX HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox1-hd.png?ver=56fd5e5e-ac03-4e47-a329-673317b6aa23" tvg-name="FOX 1 HD"  group-title="CANALES",FOX 1 HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.indiandth.in/attachment.php?aid=1792" tvg-name="FOX Action HD"  group-title="CANALES",FOX Action HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/de/Fox_Movies_Premium.png/revision/latest?cb=20120101124025" tvg-name="FOX Movies HD"  group-title="CANALES",FOX Movies HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTY3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://cdn.foxplay.com/sites/foxplay-la/files/img/logo-channels/fox-cinema.png" tvg-name="FOX Cinema"  group-title="CANALES",FOX Cinema
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTcxJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="https://pbs.twimg.com/profile_images/588514314815807489/Img9Dfl4.png" tvg-name="FOX Classics"  group-title="CANALES",FOX Classics
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNTc1Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/tvcable/images/f/fa/Fox_Life_13.png/revision/latest?cb=20131029201500&path-prefix=es" tvg-name="FOX Life"  group-title="CANALES",FOX Life
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNDI3Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://www.elespectador.com/files/imagecache/560_width_display/imagenprincipal/1c236d6fe746c70833fe940577c80ad0.jpg" tvg-name="Fox Sports"  group-title="CANALES",Fox Sports
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjU5Jmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://img4.wikia.nocookie.net/__cb20131030205902/logopedia/images/f/f0/FSA2.png" tvg-name="Fox Sports 2"  group-title="CANALES",Fox Sports 2
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xNjYzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX HD"  group-title="CANALES",FX HD
+https://totalgo.totalplay.com.mx:444/TPMHLSWeb/M3U8LiveFile?a=Zm9ybWF0PTEmcHJvZmlsZT0xMzQzJmxhbj0yJnJvd3M9NDAmc2Vzc2lvbj1vM2FzaXB5Y3BkNTF1NDAmbGFuPTI=&f=.m3u8
+
+
+ #EXTINF:-1, MiamiTV
+rtmp://k4.usastreams.com/miamitv/miamitv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Telemundo_2013_Logo.png/revision/latest?cb=20121218202819" tvg-name="Telemundo"  group-title="ESPAÑOL",Telemundo
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="http://tvdb.cl/wp-content/uploads/miami_tv_us.png" tvg-name="Miami TV"  group-title="ESPAÑOL",Miami TV
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Miami TV Music"  group-title="MUSICA",Miami TV Music
+http://74.208.152.93/music/stream3/stream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CNN NOTICIAS"  group-title="NOTICIAS",CNN NOTICIAS
+http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD177_W_150.sdp/media_7419.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RT Noticias"  group-title="NOTICIAS",RT Noticias
+http://rt-a.akamaihd.net/ch_02@325606/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="24h RTVE NOTICIAS"  group-title="NOTICIAS",24h RTVE NOTICIAS
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Andalucia TV"  group-title="ESPAÑOL",Andalucia TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Euronews  NOTCIAS"  group-title="NOTICIAS",Euronews  NOTCIAS
+http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELE SISTEMA NOTICIAS"  group-title="NOTICIAS",TELE SISTEMA NOTICIAS
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5 TV NOTICIAS"  group-title="NOTICIAS",Canal 5 TV NOTICIAS
+http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Proyecto 40"  group-title="ESPAÑOL",Proyecto 40
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCG TV NOTICIAS"  group-title="NOTICIAS",RCG TV NOTICIAS
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemax TV"  group-title="NOTICIAS",Telemax TV
+http://live-edge01.telecentro.net.ar/live/tlx-480/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TreceVision"  group-title="CANALES",TreceVision
+http://74.222.3.185:1935/live/ngrp:trecevision_all/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal del Congreso"  group-title="CANALES",Canal del Congreso
+http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Andalucia TV"  group-title="CANALES",Andalucia TV
+http://iphone-andaluciatelevision.rtva.stream.flumotion.com/rtva/andaluciatelevision-iphone-multi/main.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Azteca Noticias"  group-title="CANALES",Azteca Noticias
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="El Trece HD"  group-title="CANALES",El Trece HD
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal de las Estrellas HD"  group-title="CANALES",Canal de las Estrellas HD
+http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Pacifico Culiacan"  group-title="CANALES",TV Pacifico Culiacan
+http://74.63.97.188:1935/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 7 MAZATLAN"  group-title="CANALES",CANAL 7 MAZATLAN
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 2 Mochis TV"  group-title="CANALES",CANAL 2 Mochis TV
+http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVMAS HD"  group-title="CANALES",TVMAS HD
+rtmp://50.7.98.234/rtv/videortv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 22"  group-title="CANALES",Canal 22
+rtmp://192.96.217.230/live/smrtv.sdp
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 10"  group-title="CANALES",Canal 10
+rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 53 UANL TV"  group-title="CANALES",CANAL 53 UANL TV
+mms://streaming.uanl.mx/canal53bandaancha
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Michoacan al dia"  group-title="CANALES",Michoacan al dia
+rtmp://video7.stream.mx:1935/8016/8016
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RCG TV"  group-title="CANALES",RCG TV
+http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 7"  group-title="DOCUMENTAL",CANAL 7
+http://74.63.97.188:1935/c7/videoc7/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CANAL 7 MUSICA"  group-title="MUSICA",CANAL 7 MUSICA
+http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Once"  group-title="CANALES",Canal Once
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TDT"  group-title="CANAL",TDT
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="EfektoTV"  group-title="CANALES",EfektoTV
+http://grupomac-lh.akamaihd.net:80/i/004rss0k8_1@301782/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ingenio TV"  group-title="DOCUMENTAL",Ingenio TV
+http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="QUINCE TV"  group-title="CANALES",QUINCE TV
+http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aprende"  group-title="DOCUMENTAL",Aprende
+http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="2 TV HD"  group-title="CANALES",2 TV HD
+http://74.63.97.188:1935/gpacifico3/smil:obregon.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TELEMAX"  group-title="CANALES",TELEMAX
+http://enhd.co:1935/ilive/ilive/playlist.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 66"  group-title="CANALES",Canal 66
+http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Globo TV"  group-title="NOTICIAS",Globo TV
+http://162.212.176.83:8080/globotv.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 5 ONLINE"  group-title="INFANTIL",Canal 5 ONLINE
+http://v1.streaminglatinoamerica.com:1935/canal5/canal5/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DW "  group-title="CANALES",DW 
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DXTV"  group-title="DEPORTES",DXTV
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Real Madrid TV"  group-title="DEPORTES",Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mexiquense TV"  group-title="CANALES",Mexiquense TV
+rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTVida"  group-title="DOCUMENTAL",RTVida
+http://178.32.53.254/radiovida/livestream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USCG Television"  group-title="DOCUMENTAL",USCG Television
+rtmp://ecuastream.net:1935/UCSGHQ/UCSGHQ
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Discovery Channel HD"  group-title="DOCUMENTAL",Discovery Channel HD
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="America TV"  group-title="CANALES",America TV
+http://iphone-streaming.ustream.tv/ustreamVideo/3704670/streams/live/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Anime"  group-title="CANALES",Anime
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena 3"  group-title="Entertainment",Antena 3
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena Latina (Entertainment) (DO) (Spanish)"  group-title="Entertainment",Antena Latina (Entertainment) (DO) (Spanish)
+http://ss6.domint.net:1962/al_edge/antena/chunklist_w2059964033.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Azteca 7 Monterrey (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Azteca 7 Monterrey (Entertainment) (MX) (Spanish)
+http://38.104.228.230:1938/info7/info7_512/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Azteca Honduras (Entertainment) (HN) (Spanish)"  group-title="Entertainment",Azteca Honduras (Entertainment) (HN) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/142kvpq0l_1@67741/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Azteca trece (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Azteca trece (Entertainment) (MX) (Spanish)
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 10 Honduras (Entertainment) (HN) (Spanish)"  group-title="Entertainment",Canal 10 Honduras (Entertainment) (HN) (Spanish)
+http://cdn1.worldkast.com/canal10/ngrp:canal10_all/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 10 Mar De Plata TV (Entertainment) (AR) (Spanish)"  group-title="Entertainment",Canal 10 Mar De Plata TV (Entertainment) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/canal10_1@125367/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 13 Nicaragua (Entertainment) (NI) (Spanish)"  group-title="Entertainment",Canal 13 Nicaragua (Entertainment) (NI) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/13870671/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 2 Nicaragua (Entertainment) (NI) (Spanish)"  group-title="Entertainment",Canal 2 Nicaragua (Entertainment) (NI) (Spanish)
+http://162.244.81.181:1935/live//Stream1/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 40 (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Canal 40 (Entertainment) (MX) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 6 (Entertainment) (CR) (Spanish)"  group-title="Entertainment",Canal 6 (Entertainment) (CR) (Spanish)
+http://k3.usastreams.com:1935/cana6/cana6/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 7 (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Canal 7 (Entertainment) (MX) (Spanish)
+http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 Litoral TV (Entertainment) (AR) (Spanish)"  group-title="Entertainment",Canal 9 Litoral TV (Entertainment) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/canal9_1@125365/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal 9 (Entertainment) (AR) (Spanish)"  group-title="Entertainment",Canal 9 (Entertainment) (AR) (Spanish)
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Antiestres (Entertainment) (CO) (Spanish)"  group-title="Entertainment",Canal Antiestres (Entertainment) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_3.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Once HD (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Canal Once HD (Entertainment) (MX) (Spanish)
+http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Once SD (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Canal Once SD (Entertainment) (MX) (Spanish)
+http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Once (Entertainment) (UY) (Spanish)"  group-title="Entertainment",Canal Once (Entertainment) (UY) (Spanish)
+http://xcanaloncepuntadelestex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal U (Entertainment) (AR) (Spanish)"  group-title="Entertainment",Canal U (Entertainment) (AR) (Spanish)
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8#megaIPTVArgentina
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal de las Estrellas (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Canal de las Estrellas (Entertainment) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Capital 21 (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Capital 21 (Entertainment) (MX) (Spanish)
+http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Captain TV (Entertainment) (IN) (Tamil)"  group-title="Entertainment",Captain TV (Entertainment) (IN) (Tamil)
+http://play-fs.amgiptv.com/vxtvcaptain/captainvodsg.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CerTv (Entertainment) (ES) (Spanish)"  group-title="Entertainment",CerTv (Entertainment) (ES) (Spanish)
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Color Vision (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Color Vision (Entertainment) (ES) (Spanish)
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="E! Entertainment Latino (Entertainment) (US) (Spanish)"  group-title="Entertainment",E! Entertainment Latino (Entertainment) (US) (Spanish)
+http://31.220.40.118/LiveEdge/EentertaimentSD/playlist.m3u8?token=f1ea518b512761e8a8f6b7b9bce34111
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FX (Entertainment) (MX) (Spanish)"  group-title="Entertainment",FX (Entertainment) (MX) (Spanish)
+http://live.tutvgratis.tv/ch/101.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Galicia (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Galicia (Entertainment) (ES) (Spanish)
+http://media3.crtvg.es/live/tvga/.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HTP (Entertainment) (ES) (Spanish)"  group-title="Entertainment",HTP (Entertainment) (ES) (Spanish)
+rtmp://streaming2.radiohuesca.com/live/huescatv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Investigative Discovery (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Investigative Discovery (Entertainment) (MX) (Spanish)
+http://live.bltvios.com.edgesuite.net/tv/us/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="LUX Mallorca TV (Entertainment) (ES) (Spanish)"  group-title="Entertainment",LUX Mallorca TV (Entertainment) (ES) (Spanish)
+rtmp://fl1.viastreaming.net/canal37/livestream
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Sexta (Entertainment) (ES) (Spanish)"  group-title="Entertainment",La Sexta (Entertainment) (ES) (Spanish)
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Levante TV (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Levante TV (Entertainment) (ES) (Spanish)
+rtmp://teledifusion.tv:1935/levantetvlive/levantetvlive
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MicroVision (Entertainment) (ES) (Spanish)"  group-title="Entertainment",MicroVision (Entertainment) (ES) (Spanish)
+http://tcc-streaming2.cloudapp.net:1935/micro10/microvision10/chunklist_w911586869.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Nuestra Vision Michoacan (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Nuestra Vision Michoacan (Entertainment) (MX) (Spanish)
+http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Peravia Vision (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Peravia Vision (Entertainment) (ES) (Spanish)
+http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CBS HD (Entertainment) (PA) (Spanish)"  group-title="Entertainment",CBS HD (Entertainment) (PA) (Spanish)
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RTPA 7 (Entertainment) (ES) (Spanish)"  group-title="Entertainment",RTPA 7 (Entertainment) (ES) (Spanish)
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Galicia America (Entertainment) (ES) (Spanish)"  group-title="Entertainment",TV Galicia America (Entertainment) (ES) (Spanish)
+http://media3.crtvg.es/live/tvga/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV UNO 1 (Entertainment) (ES) (Spanish)"  group-title="Entertainment",TV UNO 1 (Entertainment) (ES) (Spanish)
+rtmp://k3.usastreams.com:1935/tvuno1/tvuno1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV3 Cat (Entertainment) (ES) (Catalan)"  group-title="Entertainment",TV3 Cat (Entertainment) (ES) (Catalan)
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVC Honduras (Entertainment) (HN) (Spanish)"  group-title="Entertainment",TVC Honduras (Entertainment) (HN) (Spanish)
+http://187.247.255.139/Apple/TVCDeportes.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TVMas (Entertainment) (MX) (Spanish)"  group-title="Entertainment",TVMas (Entertainment) (MX) (Spanish)
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tele Antillas (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Tele Antillas (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleCeiba (Entertainment) (HN) (Spanish)"  group-title="Entertainment",TeleCeiba (Entertainment) (HN) (Spanish)
+http://162.212.176.83:8080/teleceiba.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Teleantillas (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Teleantillas (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemadrid (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Telemadrid (Entertainment) (ES) (Spanish)
+http://iphone.telemadrid.es.edgesuite.net/telemadridsat_iphone.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemetro (Entertainment) (PA) (Spanish)"  group-title="Entertainment",Telemetro (Entertainment) (PA) (Spanish)
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemicro Canal 5 (Entertainment) (DO) (Spanish)"  group-title="Entertainment",Telemicro Canal 5 (Entertainment) (DO) (Spanish)
+http://107.182.239.141:9095/live5/telemicro0505_2_96/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemundo (Entertainment) (US) (Spanish)"  group-title="Entertainment",Telemundo (Entertainment) (US) (Spanish)
+https://video10-lax.streamup.com/app/telemundox2chivas_69s-stream_aac/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telesistema (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Telesistema (Entertainment) (ES) (Spanish)
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Televicentro (Entertainment) (HN) (Spanish)"  group-title="Entertainment",Televicentro (Entertainment) (HN) (Spanish)
+http://tvchonduras-lh.akamaihd.net/i/ch_1@325635/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telpin TV (Entertainment) (AR) (Spanish)"  group-title="Entertainment",Telpin TV (Entertainment) (AR) (Spanish)
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Univision (Entertainment) (US) (Spanish)"  group-title="Entertainment",Univision (Entertainment) (US) (Spanish)
+https://video02-atl.streamup.com/app/univision2chivas_69s-stream_aac/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Valle vision Canal 10 la vega (Entertainment) (ES) (Spanish)"  group-title="Entertainment",Valle vision Canal 10 la vega (Entertainment) (ES) (Spanish)
+http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Vmas TV (Entertainment) (MX) (Spanish)"  group-title="Entertainment",Vmas TV (Entertainment) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="WAPA TV (Entertainment) (PR) (Spanish)"  group-title="Entertainment",WAPA TV (Entertainment) (PR) (Spanish)
+http://31.220.40.119:80/LiveEdge/WPA2PR/playlist.m3u8?token=1e05d5fdd8854709aef4cf58108a6987
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Orbe 21 TV (Family) (AR) (Spanish)"  group-title="Family",Canal Orbe 21 TV (Family) (AR) (Spanish)
+http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Disney Junior (Family) (MX) (Spanish)"  group-title="Family",Disney Junior (Family) (MX) (Spanish)
+http://live.tutvgratis.tv/ch/202.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Microvision (Family) (DO) (Spanish)"  group-title="Family",Microvision (Family) (DO) (Spanish)
+rtmp://tcc-streaming2.cloudapp.net:1935/micro10/microvision10 playpath=microvision10 swfUrl=http://microvision.com.do/tv/player/microtvradio/player_by_micro.swf live=1 pageUrl=http://microvision.com.do/tv/microvision.php
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Solidaria TV (Family) (AR) (Spanish)"  group-title="Family",Solidaria TV (Family) (AR) (Spanish)
+http://188.165.135.22/remararg/livestream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tateti TV (Family) (AR) (Spanish)"  group-title="Family",Tateti TV (Family) (AR) (Spanish)
+http://ionlive1-lh.akamaihd.net/i/tateti_1@126174/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tele Bendici?n (Family) (DO) (Spanish)"  group-title="Family",Tele Bendici?n (Family) (DO) (Spanish)
+http://qs1.distream.net:2180/tbt_str/telebendicion/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cosmovision (Lifestyle) (CO) (Spanish)"  group-title="Lifestyle",Cosmovision (Lifestyle) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Mexico Travel Channel (Lifestyle) (MX) (Spanish)"  group-title="Lifestyle",Mexico Travel Channel (Lifestyle) (MX) (Spanish)
+http://cdns840stu1010.multistream.net/mtchlive/amlst:live/livestream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Miami TV (Lifestyle) (US) (English)"  group-title="Lifestyle",Miami TV (Lifestyle) (US) (English)
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telpin TV (Lifestyle) (AR) (Spanish)"  group-title="Lifestyle",Telpin TV (Lifestyle) (AR) (Spanish)
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Xper TV (Lifestyle) (MX) (Spanish)"  group-title="Lifestyle",Xper TV (Lifestyle) (MX) (Spanish)
+http://k3.usastreams.com:1935/tv33/tv33/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="De Pelicula (Movie Channels) (US) (Spanish)"  group-title="Movie Channels",De Pelicula (Movie Channels) (US) (Spanish)
+http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fx (Movie Channels) (US) (English)"  group-title="Movie Channels",Fx (Movie Channels) (US) (English)
+http://167.114.102.27/live/wm_OgDSW2LMpXemLzGw52w/1458318771/b8b5089c70ae62534970e2d8aa67e96d.m3u8|User-Agent=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20WOW64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F47.0.2526.106%20Safari%2F537.36
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO SD Asia (Movie Channels) (US) (English)"  group-title="Movie Channels",HBO SD Asia (Movie Channels) (US) (English)
+http://xmiolive.e14538a7.viettel-cdn.vn/hbo.smil/chunklist_b1000000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="HBO (Movie Channels) (US) (English)"  group-title="Movie Channels",HBO (Movie Channels) (US) (English)
+http://yottzin.esy.es/st.php?IDE=385&user=conrado&pass=5353&f=.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cantinazo TV (Music) (MX) (Spanish)"  group-title="Music",Cantinazo TV (Music) (MX) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="El Pinguino (Music) (CL) (Spanish)"  group-title="Music",El Pinguino (Music) (CL) (Spanish)
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/hasbahca.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="MiMusica (Music) (CO) (Spanish)"  group-title="Music",MiMusica (Music) (CO) (Spanish)
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SMO Positive Channel (Music) (MX) (Spanish)"  group-title="Music",SMO Positive Channel (Music) (MX) (Spanish)
+http://199.217.118.90:1935/smotv/stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Super Q FM TV (Music) (PN) (Spanish)"  group-title="Music",Super Q FM TV (Music) (PN) (Spanish)
+http://cdn6.iviplanet.com:1935/SuperQTV/myStream.sdp/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TV Blast (Music) (PA) (Spanish)"  group-title="Music",TV Blast (Music) (PA) (Spanish)
+http://www.streaming507.com:1935/TVBlast/TVBlast/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telemusica (Music) (EC) (Spanish)"  group-title="Music",Telemusica (Music) (EC) (Spanish)
+http://186.155.200.118:1935/live/telemusica/chunklist_w1353784156_69909.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Teve Musica HD (Music) (DO) (Spanish)"  group-title="Music",Teve Musica HD (Music) (DO) (Spanish)
+http://ss6.domint.net:2086/tmtv_str/musica/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 1 HD (Music) (US) (English)"  group-title="Music",VEVO 1 HD (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 10 (Music) (US) (English)"  group-title="Music",VEVO 10 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/04/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 11 (Music) (US) (English)"  group-title="Music",VEVO 11 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/04/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 12 (Music) (US) (English)"  group-title="Music",VEVO 12 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/04/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 13 (Music) (US) (English)"  group-title="Music",VEVO 13 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 14 (Music) (US) (English)"  group-title="Music",VEVO 14 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 15 (Music) (US) (English)"  group-title="Music",VEVO 15 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 16 (Music) (US) (English)"  group-title="Music",VEVO 16 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 17 (Music) (US) (English)"  group-title="Music",VEVO 17 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 18 (Music) (US) (English)"  group-title="Music",VEVO 18 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 2 HD (Music) (US) (English)"  group-title="Music",VEVO 2 HD (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 3 HD (Music) (US) (English)"  group-title="Music",VEVO 3 HD (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 4 (Music) (US) (English)"  group-title="Music",VEVO 4 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 5 (Music) (US) (English)"  group-title="Music",VEVO 5 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/02/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 6 (Music) (US) (English)"  group-title="Music",VEVO 6 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/02/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 7 (Music) (US) (English)"  group-title="Music",VEVO 7 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/03/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 8 (Music) (US) (English)"  group-title="Music",VEVO 8 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/03/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="VEVO 9 (Music) (US) (English)"  group-title="Music",VEVO 9 (Music) (US) (English)
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/03/prog_index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]BEST MUSIC TV HD[/COLOR]"  group-title="Music",[COLOR orangered]BEST MUSIC TV HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p?Vd?u#bt!25
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]ESKA TV[/COLOR]"  group-title="Music",[COLOR orange]ESKA TV[/COLOR]
+rtmp://stream.smcloud.net/live/eskatv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]ESKA BEST MUSIC HD[/COLOR]"  group-title="Music",[COLOR orangered]ESKA BEST MUSIC HD[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]ESKA BEST MUSIC[/COLOR]"  group-title="Music",[COLOR orange]ESKA BEST MUSIC[/COLOR]
+rtmp://stream.smcloud.net/live2/best/best_360p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]ESKA ROCK HD[/COLOR]"  group-title="Music",[COLOR orangered]ESKA ROCK HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]ESKA ROCK[/COLOR]"  group-title="Music",[COLOR orange]ESKA ROCK[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]ESKA PARTY HD[/COLOR]"  group-title="Music",[COLOR orangered]ESKA PARTY HD[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]ESKA PARTY[/COLOR]"  group-title="Music",[COLOR orange]ESKA PARTY[/COLOR]
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_360p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]POLO PARTY HD[/COLOR]"  group-title="Music",[COLOR orangered]POLO PARTY HD[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]POLO PARTY[/COLOR]"  group-title="Music",[COLOR orange]POLO PARTY[/COLOR]
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_360p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]POLO TV[/COLOR]"  group-title="Music",[COLOR orange]POLO TV[/COLOR]
+rtmp://stream.smcloud.net/live/polotv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]WAWA HD[/COLOR]"  group-title="Music",[COLOR orangered]WAWA HD[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_720p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]WAWA[/COLOR]"  group-title="Music",[COLOR orange]WAWA[/COLOR]
+rtmp://stream.smcloud.net/live2/wawa/wawa_360p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]VOX MUSIC HD[/COLOR]"  group-title="Music",[COLOR orangered]VOX MUSIC HD[/COLOR]
+rtmp://stream.smcloud.net/live2/vox/vox_720p
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]VOX MUSIC[/COLOR]"  group-title="Music",[COLOR orange]VOX MUSIC[/COLOR]
+rtmp://stream.smcloud.net/live/vox2/stream1
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]FIRST MUSIC CHANNEL HD[/COLOR]"  group-title="Music",[COLOR orangered]FIRST MUSIC CHANNEL HD[/COLOR]
+rtmp://rtmp.one.by/HD/1muz
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Djing 1[/COLOR]"  group-title="Music",[COLOR orangered]Djing 1[/COLOR]
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Djing 2[/COLOR]"  group-title="Music",[COLOR orangered]Djing 2[/COLOR]
+http://www.djing.com/tv/a-05.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Djing 3[/COLOR]"  group-title="Music",[COLOR orangered]Djing 3[/COLOR]
+http://www.djing.com/tv/u-05.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Djing 4[/COLOR]"  group-title="Music",[COLOR orangered]Djing 4[/COLOR]
+http://www.djing.com/tv/d-05.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Djing 5[/COLOR]"  group-title="Music",[COLOR orangered]Djing 5[/COLOR]
+http://www.djing.com/tv/s-05.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Super Sonic TV[/COLOR]"  group-title="Music",[COLOR orange]Super Sonic TV[/COLOR]
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Ocko Gold[/COLOR]"  group-title="Music",[COLOR orange]Ocko Gold[/COLOR]
+http://194.79.52.77/goldi/goldHQ1/byb0tter.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Nebiset[/COLOR]"  group-title="Music",[COLOR orange]Nebiset[/COLOR]
+http://hls.nebiset.tv/nebiset.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]MFM TV[/COLOR]"  group-title="Music",[COLOR orange]MFM TV[/COLOR]
+http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Telemusica[/COLOR]"  group-title="Music",[COLOR orange]Telemusica[/COLOR]
+rtmp://186.155.200.118:1935/live/telemusica
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Slam TV[/COLOR]"  group-title="Music",[COLOR orange]Slam TV[/COLOR]
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]KISS TV[/COLOR]"  group-title="Music",[COLOR orange]KISS TV[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Electrosound TV[/COLOR]"  group-title="Music",[COLOR orange]Electrosound TV[/COLOR]
+rtmp://www.electrosound.tv/public/stream
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Elektrika TV[/COLOR]"  group-title="Music",[COLOR orange]Elektrika TV[/COLOR]
+rtmp://rtmp.elektrika.cz/live/myStream.sdp
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]HITS[/COLOR]"  group-title="Music",[COLOR orange]HITS[/COLOR]
+http://204.107.26.252:1935/live/691.high.stream/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ZOL 106.5 FM (Radio) (DO) (Spanish)"  group-title="Radio",ZOL 106.5 FM (Radio) (DO) (Spanish)
+http://ss6.domint.net:1948/zol_edge/vzol/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CSI: Las Vegas (RandomAirTime 24/7) (ES) (Spanish)"  group-title="RandomAirTime 24/7",CSI: Las Vegas (RandomAirTime 24/7) (ES) (Spanish)
+http://iptvnation.com/90.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Grimm (RandomAirTime 24/7) (ES) (Spanish)"  group-title="RandomAirTime 24/7",Grimm (RandomAirTime 24/7) (ES) (Spanish)
+http://iptvnation.com/grimmlat.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="South Park (RandomAirTime 24/7) (ES) (Spanish)"  group-title="RandomAirTime 24/7",South Park (RandomAirTime 24/7) (ES) (Spanish)
+http://iptvnation.com/southparklat.mp4
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Cadena Megavision (RandomAirTime 24/7) (ES) (Spanish)"  group-title="RandomAirTime 24/7",Cadena Megavision (RandomAirTime 24/7) (ES) (Spanish)
+http://xgrupomegavisionx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ARGENTINA 9 (Sports) (AR) (Spanish)"  group-title="Sports",ARGENTINA 9 (Sports) (AR) (Spanish)
+http://dd65nd24m61wg.cloudfront.net/livec9/smil:C9.smil/chunklist_b796000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CDN Sports Max (Sports) (DO) (Spanish)"  group-title="Sports",CDN Sports Max (Sports) (DO) (Spanish)
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CDN Sportsmax (Sports) (ES) (Spanish)"  group-title="Sports",CDN Sportsmax (Sports) (ES) (Spanish)
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COS 2 (Sports) (PA) (Spanish)"  group-title="Sports",COS 2 (Sports) (PA) (Spanish)
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COS (Sports) (PA) (Spanish)"  group-title="Sports",COS (Sports) (PA) (Spanish)
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Deportes 2 (Sports) (ES) (Spanish)"  group-title="Sports",Canal+ Deportes 2 (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/856.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal+ Futbol (Sports) (ES) (Spanish)"  group-title="Sports",Canal+ Futbol (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="DeporTV (Sports) (AR) (Spanish)"  group-title="Sports",DeporTV (Sports) (AR) (Spanish)
+http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Fox Sports (Sports) (MX) (Spanish)"  group-title="Sports",Fox Sports (Sports) (MX) (Spanish)
+http://canalesvip.ml/test/522.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Real Madrid TV (Sports) (ES) (Spanish)"  group-title="Sports",Real Madrid TV (Sports) (ES) (Spanish)
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="beIN Sports (Sports) (ES) (Spanish)"  group-title="Sports",beIN Sports (Sports) (ES) (Spanish)
+http://iptvbox.noip.us:9998/live/atik/atik/847.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR FFDC54D3]TVEi[/COLOR]"  group-title="Spanish",[COLOR FFDC54D3]TVEi[/COLOR]
+http://62.65.140.214:80/session/fc912346-ecd4-11e5-a43c-005056bc1a52/nvnv5a/2/5003/index.m3u8?token=9beeaba9f9db334e1d6a6b90dfe2cedd_1458369921_1458369921&p=127|X-Forwarded-For=85.195.192.0
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]RTVE La 1[/COLOR]"  group-title="Spanish",[COLOR orange]RTVE La 1[/COLOR]
+http://hlslive.rtve.es/LA1_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]RTVE La 2[/COLOR]"  group-title="Spanish",[COLOR orange]RTVE La 2[/COLOR]
+http://hlslive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Canal 24 horas[/COLOR]"  group-title="Spanish",[COLOR orange]Canal 24 horas[/COLOR]
+http://hlslive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]LA RED HD[/COLOR]"  group-title="Spanish",[COLOR orangered]LA RED HD[/COLOR]
+http://wow1.lax.digitalproserver.com/redtv/redtvvivo/livestream1/chunklist.m3u8|X-Forwarded-For=31.220.176.0
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]LA RED HD (2)[/COLOR]"  group-title="Spanish",[COLOR orangered]LA RED HD (2)[/COLOR]
+rtmp://wow1.dallas.digitalproserver.com/redtv/redtvvivo playpath=mp4:livestream1 swfUrl=http://media.digitalproserver.com/v2/jw/6.7/jwplayer.flash.swf?v=67 live=1 pageUrl=http://media.digitalproserver.com/v2/live/redtv
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TV Galicia[/COLOR]"  group-title="Spanish",[COLOR orange]TV Galicia[/COLOR]
+http://media3.crtvg.es/live/tvge/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]LA SEXTA HD[/COLOR]"  group-title="Spanish",[COLOR orangered]LA SEXTA HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_4_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]LA SEXTA[/COLOR]"  group-title="Spanish",[COLOR orange]LA SEXTA[/COLOR]
+http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_2_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Antenna 3 HD[/COLOR]"  group-title="Spanish",[COLOR orangered]Antenna 3 HD[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_4_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Antenna 3[/COLOR]"  group-title="Spanish",[COLOR orange]Antenna 3[/COLOR]
+http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-p.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orangered]Russia Today ES HD[/COLOR]"  group-title="Spanish",[COLOR orangered]Russia Today ES HD[/COLOR]
+http://rt.ashttp14.visionip.tv/live/RT_en_Espanol-HD/chunklist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TV Chile[/COLOR]"  group-title="Spanish",[COLOR orange]TV Chile[/COLOR]
+http://edge-61-cl.edge.mdstrm.com:1935/tvn-live/smil:285a5c6dade574d5f111419c85c6cf17/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TVN[/COLOR]"  group-title="Spanish",[COLOR orange]TVN[/COLOR]
+http://tvn-vod.mdstrm.com/liveedge/tvnelemental.smil/chunklist_b981000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TVN (2)[/COLOR]"  group-title="Spanish",[COLOR orange]TVN (2)[/COLOR]
+http://edge-11-cl.edge.mdstrm.com:1935/tvn-live/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TV MÃS[/COLOR]"  group-title="Spanish",[COLOR orange]TV MÃS[/COLOR]
+http://50.7.98.234:1935/rtv/videortv/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]MÃ©xico Travel Channel[/COLOR]"  group-title="Spanish",[COLOR orange]MÃ©xico Travel Channel[/COLOR]
+http://cdns840stu1010.multistream.net:80/mtchlive/amlst:live/livestream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]MÃ©xico Television MichoacÃ¡n[/COLOR]"  group-title="Spanish",[COLOR orange]MÃ©xico Television MichoacÃ¡n[/COLOR]
+http://hd.worldkast.com/8512/smil:8512.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Navarra TV[/COLOR]"  group-title="Spanish",[COLOR orange]Navarra TV[/COLOR]
+http://cdn.s3.eu.nice264.com:1935/niceLiveServer/NTV_livenatvmb_MB_478/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Ondaluz Sierra[/COLOR]"  group-title="Spanish",[COLOR orange]Ondaluz Sierra[/COLOR]
+http://cls.elitehd-audiovisuales.com:80/olsierra/livestream1/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Condavision[/COLOR]"  group-title="Spanish",[COLOR orange]Condavision[/COLOR]
+http://cls.todostreaming.eu:80/azahara/condavision/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]EWTN[/COLOR]"  group-title="Spanish",[COLOR orange]EWTN[/COLOR]
+http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/livestream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Esperanza TV[/COLOR]"  group-title="Spanish",[COLOR orange]Esperanza TV[/COLOR]
+http://k3.usastreams.com:1935/etvSD/etvSD/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Alcance TV[/COLOR]"  group-title="Spanish",[COLOR orange]Alcance TV[/COLOR]
+http://hd.worldkast.com:1935/8232/8232.smil/chunklist_b1000000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Almavision[/COLOR]"  group-title="Spanish",[COLOR orange]Almavision[/COLOR]
+http://cdn3.iviplanet.com:1935/Almavision/almavision1/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Lancelot TV[/COLOR]"  group-title="Spanish",[COLOR orange]Lancelot TV[/COLOR]
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]RTS[/COLOR]"  group-title="Spanish",[COLOR orange]RTS[/COLOR]
+http://d2rcb4pdmqg3cg.cloudfront.net:80/liverts/liverts.smil/chunklist_b899152.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TelecafÃ©[/COLOR]"  group-title="Spanish",[COLOR orange]TelecafÃ©[/COLOR]
+http://xtelecafex.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Canal 13[/COLOR]"  group-title="Spanish",[COLOR orange]Canal 13[/COLOR]
+http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_3_av-b.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]C5N[/COLOR]"  group-title="Spanish",[COLOR orange]C5N[/COLOR]
+rtmp://c5n.stweb.tv:1935/c5n/live
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Zoom TV[/COLOR]"  group-title="Spanish",[COLOR orange]Zoom TV[/COLOR]
+http://xcanalzoomtvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TeleSistema[/COLOR]"  group-title="Spanish",[COLOR orange]TeleSistema[/COLOR]
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TeleAntillas[/COLOR]"  group-title="Spanish",[COLOR orange]TeleAntillas[/COLOR]
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TeleProgreso[/COLOR]"  group-title="Spanish",[COLOR orange]TeleProgreso[/COLOR]
+http://162.212.176.83:8080/teleprogreso.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TeleMetro[/COLOR]"  group-title="Spanish",[COLOR orange]TeleMetro[/COLOR]
+http://live.telemetro.com/telemetro/tm.smil/playlist.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]RPC[/COLOR]"  group-title="Spanish",[COLOR orange]RPC[/COLOR]
+http://live.rpctv.com/rpctv/tm.smil/playlist.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]RBC[/COLOR]"  group-title="Spanish",[COLOR orange]RBC[/COLOR]
+rtmp://184.154.28.210:1935/rbcsatelital-hd/rbcsatelital-hd
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]EITB EspaÃ±a[/COLOR]"  group-title="Spanish",[COLOR orange]EITB EspaÃ±a[/COLOR]
+http://etbvhlsnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@123113/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Adinet TV[/COLOR]"  group-title="Spanish",[COLOR orange]Adinet TV[/COLOR]
+http://painel.tvdigitalhd.org:1935/adinet/adinet/live.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Canal Antiestres[/COLOR]"  group-title="Spanish",[COLOR orange]Canal Antiestres[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Cantinazo[/COLOR]"  group-title="Spanish",[COLOR orange]Cantinazo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Deutsche Welle (LatinoamÃ©rica)[/COLOR]"  group-title="Spanish",[COLOR orange]Deutsche Welle (LatinoamÃ©rica)[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Teleantoquia[/COLOR]"  group-title="Spanish",[COLOR orange]Teleantoquia[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Cosmovision[/COLOR]"  group-title="Spanish",[COLOR orange]Cosmovision[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Canal U[/COLOR]"  group-title="Spanish",[COLOR orange]Canal U[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Cablenoticias[/COLOR]"  group-title="Spanish",[COLOR orange]Cablenoticias[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]El Tiempo[/COLOR]"  group-title="Spanish",[COLOR orange]El Tiempo[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Trendy[/COLOR]"  group-title="Spanish",[COLOR orange]Trendy[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]Tele medÃ©llin[/COLOR]"  group-title="Spanish",[COLOR orange]Tele medÃ©llin[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR orange]TV Agro[/COLOR]"  group-title="Spanish",[COLOR orange]TV Agro[/COLOR]
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVAG/tu1_3.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Ecuamerica TV (Public-Entertainment) (EC) (Spanish)"  group-title="Public-Entertainment",Ecuamerica TV (Public-Entertainment) (EC) (Spanish)
+http://enhd.co:1935/ecuamerica/ecuamerica/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR lime]---Argentina---[/COLOR]"  group-title="Public-Entertainment",[COLOR lime]---Argentina---[/COLOR]
+http://?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Globo"  group-title="VARIEDADES",Globo
+http://art.nextv.ca:80/nextv/globo/index.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR lime]---Rep. Dominicana---[/COLOR]"  group-title="VARIEDADES",[COLOR lime]---Rep. Dominicana---[/COLOR]
+http://?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Tele Antillas  Rep. Dominicana"  group-title="VARIEDADES",Tele Antillas  Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telessistema  Rep. Dominicana"  group-title="VARIEDADES",Telessistema  Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="ANTENA LATINA Rep. Dominicana"  group-title="VARIEDADES",ANTENA LATINA Rep. Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Telesitemas 11 Rep. Dominicana"  group-title="VARIEDADES",Telesitemas 11 Rep. Dominicana
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/chunklist_w965232534_b464000.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Teleantillas 2 HD Rep. Dominicana"  group-title="VARIEDADES",Teleantillas 2 HD Rep. Dominicana
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Antena Latina Rep. Dominicana"  group-title="VARIEDADES",Antena Latina Rep. Dominicana
+http://ss6.domint.net:1962/al_edge/antena/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Musavision Rep. Dominicana"  group-title="VARIEDADES",Musavision Rep. Dominicana
+http://joelzaiter1.srfms.com:1963/live/musav.sdp/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="TeleNord Rep. Dominicana"  group-title="VARIEDADES",TeleNord Rep. Dominicana
+rtmp://mek2.mekstream.com:1935/telenord10 playpath=live2 swfUrl=http://www.mekstream.com/clients/telenord10/player-licensed.swf
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CDN 37 Rep. Dominicana"  group-title="VARIEDADES",CDN 37 Rep. Dominicana
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR lime]---Bolivia---[/COLOR]"  group-title="VARIEDADES",[COLOR lime]---Bolivia---[/COLOR]
+http://?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Red PAT Bolivia"  group-title="VARIEDADES",Red PAT Bolivia
+http://www.server.tevemi.com:1935/8092/8092/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="[COLOR lime]---Colombia---[/COLOR]"  group-title="VARIEDADES",[COLOR lime]---Colombia---[/COLOR]
+http://?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Capital Colombia"  group-title="VARIEDADES",Canal Capital Colombia
+http://cdns840stu1010.multistream.net/canalcapitallive/amlst:live/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal U Colombia"  group-title="VARIEDADES",Canal U Colombia
+http://xcanalutvx.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Teleamiga Colombia"  group-title="VARIEDADES",Teleamiga Colombia
+http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sports 3 Francia"  group-title="DEPORTES",Bein Sports 3 Francia
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein HD"  group-title="DEPORTES",Bein HD
+http://iptvbox.noip.us:9998/live/atik/atik/726.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Futbol"  group-title="DEPORTES",Canal Futbol
+http://iptvbox.noip.us:9998/live/atik/atik/265.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal Futbol 2"  group-title="DEPORTES",Canal Futbol 2
+http://iptvbox.noip.us:9998/live/atik/atik/857.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Canal  Liga"  group-title="DEPORTES",Canal  Liga
+http://iptvbox.noip.us:9998/live/atik/atik/274.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COS"  group-title="DEPORTES",COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COS2"  group-title="DEPORTES",COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="FOX Sports 2"  group-title="DEPORTES",FOX Sports 2
+http://iptvbox.noip.us:9998/live/atik/atik/1385.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA TV"  group-title="DEPORTES",NBA TV
+http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBA TV"  group-title="DEPORTES",NBA TV
+Group N/A
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NFL Now"  group-title="DEPORTES",NFL Now
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Redbull TV"  group-title="DEPORTES",Redbull TV
+http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Combate"  group-title="DEPORTES",Combate
+http://server1.livestreaming.ninja:1935/live/combate755/livestream.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COS"  group-title="DEPORTES",COS
+http://d3tzxnygw45q3p.cloudfront.net/cos/media.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="COS2"  group-title="DEPORTES",COS2
+http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CDN SPORTS MAX"  group-title="DEPORTES",CDN SPORTS MAX
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="360 DEPORTES"  group-title="DEPORTES",360 DEPORTES
+http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PAC-12 Net. (Arizona)"  group-title="DEPORTES",PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PAC-12 Net. (Bay Area)"  group-title="DEPORTES",PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PAC-12 Net. (Los Angeles)"  group-title="DEPORTES",PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PAC-12 Net. (Oregon)"  group-title="DEPORTES",PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="PAC-12 Net. (Washington)"  group-title="DEPORTES",PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="NBC GOLF 1080p"  group-title="DEPORTES",NBC GOLF 1080p
+Group N/A
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA-BASKET UNI.(Arizona)"  group-title="DEPORTES",USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA-BASKET UNI.(Los Angeles)"  group-title="DEPORTES",USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA-BASKET UNI.(Moutain)"  group-title="DEPORTES",USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="USA-BASKET UNI.(Oregon)"  group-title="DEPORTES",USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="CDN SportsMax"  group-title="DEPORTES",CDN SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Bein Sports 3 Francia"  group-title="DEPORTES",Bein Sports 3 Francia
+http://evolive-tv.com:8000/live/genio/genio/67.m3u8
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTS:SPORT  SPORT TIME TV 1HQ GERMANY"  group-title="DEPORTES",SPORTS:SPORT  SPORT TIME TV 1HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
+#EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY"  group-title="DEPORTES",SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
+
+
 #EXTINF: -1,HBO 
 http://199.180.114.174:88/files/hbo.m3u8
 #EXTINF: -1,DISCOVERY EN ESPAÑOL ***
@@ -1337,7 +2364,6 @@ rtmp://62.210.141.18:1935/directo/lancelot.television
 rtmp://video7.stream.mx:1935/8016/8016
 
 
-
 #EXTINF:-1,[COLOR lime]---DEPORTES---[/COLOR]
 http://0.0.0.0:1234
 
@@ -1402,141 +2428,6 @@ http://live.cableondasports.com/cos2/media.smil/playlist.m3u8
 http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
 #EXTINF:-1,360 DEPORTES
 http://lsd360tvhls-lh.akamaihd.net/i/360TVHLS_1@197877/master.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:-1,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:-1,NBC GOLF 1080p
-#EXTINF:-1,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:-1,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,CDN SportsMax
-http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
-#EXTINF:-1 group-title="DEPORTES",Bein Sports 3 Francia
-http://evolive-tv.com:8000/live/genio/genio/67.m3u8
-#EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 1HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
-#EXTINF:-1,SPORTS:SPORT  SPORT TIME TV 2HQ GERMANY
-rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel2_800
-#EXTINF:0 group-title="English",London Live HQ (English) 
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:0 group-title="English",Skynet Sports (English) 
-rtmp://216.185.103.158/live2//chSport1hd
-
-#EXTINF:0 group-title="English",Skynet Sports (English) 
-rtmp://216.185.103.158/live2//chSport2hd
-
-#EXTINF:0 group-title="English",Sky Sports 1(English) 
-http://80.243.189.26:8889/sprtXStpp/sky1/index.m3u8
-
-#EXTINF:0 group-title="English",Sky Sports 2 (English) 
-http://80.243.189.26:8889/sprtXStpp/sky2/index.m3u8
-
-#EXTINF:0 group-title="English",Sky Sports 3 (English) 
-http://80.243.189.26:8889/sprtXStpp/sky3/index.m3u8
-
-#EXTINF:0 group-title="English",Sky Sports 4 (English) 
-http://80.243.189.26:8889/sprtXStpp/sky4/index.m3u8
-
-#EXTINF:0 group-title="English",Sky Sports 5 (English) 
-http://80.243.189.26:8889/sprtXStpp/sky5/index.m3u8
-
-#EXTINF:0 group-title="English",Sky Sports F1 (English) 
-http://80.243.189.26:8889/sprtXStpp/skf1/index.m3u8
-
-#EXTINF:0 group-title="English",BT Sports 1 (English) 
-http://80.243.189.26:8889/sprtXStpp/bt1/index.m3u8
-
-#EXTINF:0 group-title="English",BT Sports 2 (English) 
-http://80.243.189.26:8889/sprtXStpp/bt2/index.m3u8
-
-#EXTINF:0 group-title="English",BT Sports Europe (English) 
-http://80.243.189.26:8889/pintvhd/bteurope/index.m3u8
-
-#EXTINF:0 group-title="English",Golf 1080P (English) 
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8
-
-#EXTINF:0 group-title="English",Golf 720P (English) 
-http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
-
-#EXTINF:0 group-title="English",Horse & Country (English) 
-http://llnw.live.simplestream.com/coder5/coder.channels.channel5/hls/4/playlist.m3u8
-
-#EXTINF:0 group-title="English",Sports Tonight UK(English) 
-rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
-
-#EXTINF:0 group-title="English",Fox MotorSports (English) 
-http://motorsport.hopto.org:8080/
-
-#EXTINF:0 group-title="English",MAD(English) 
-http://144.76.2.213:1935/live/livestream/playlist.m3u8
-
-#EXTINF:0 group-title="English",MTV (English) 
-http://194.116.73.52/quartaretetv1/formusicweb/playlist.m3u8
-
-#EXTINF:0 group-title="English",Boomerang-kids (English) 
-http://77.120.118.235:8085/
-
-#EXTINF:0 group-title="English",Cartoon Network US (English) 
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
-#EXTINF:0 group-title="English",Toonamri-kids (English) 
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
-
-#EXTINF:0 group-title="English",Mystery Science Theater (English) 
-http://iphone-streaming.ustream.tv/uhls/16843506/streams/live/iphone/playlist.m3u8
-
-#EXTINF:0 group-title="English",Daystart (English) 
-http://bcoveliveios-i.akamaihd.net/hls/live/203127/1539097700001/master_360p.m3u8
-
-#EXTINF:0 group-title="English",WGN (English) 
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/index_350_av-p.m3u8?
-
-#EXTINF:0 group-title="English",360 North (English) 
-http://state.ak.tvwmedia.net:1935/ktoo-live/_definst_/360north/playlist.m3u8
-
-#EXTINF:0 group-title="English",BYU (English) 
-http://byuhd2-lh.akamaihd.net/i/byutvhd2_live@103136/master.m3u8
-
-#EXTINF:0 group-title="English",Red Bull TV HD (English) 
-http://sacapunta.eltelon.com/channels/redbulltv/playlist.m3u8
-
-#EXTINF:0 group-title="English",NFL Now (English) 
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-#EXTINF:0 group-title="English",USA Basketball Uni (English) 
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-
-
-#EXTINF:0 group-title="English",Fasion TV US (English) 
-http://edgeb.streaming.sk/fashiontv/fashiontv.stream/playlist.m3u8
-
-#EXTINF:0 group-title="English",Miami TV Music (English) 
-http://74.208.152.93/music/stream3/stream.m3u8
-
-#EXTINF:0 group-title="English",Vision (English) 
-rtmp://cp101680.live.edgefcs.net/live/livev_2@50832
-
-#EXTINF:0 group-title="English",CPAC (English) 
-http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
-
-#EXTINF:0 group-title="English",CPAC HD(English) 
-http://btflash-lh.akamaihd.net/i/BTMTLFLASH_live@120220/master.m3u8
-
-#EXTINF:0 group-title="English",CPAC HD 2 (English) 
-http://bcliveuniv-lh.akamaihd.net/i/cpac1flr2014_01@51230/index_2000_av-p.m3u8
 
 
 #EXTINF:-1, BRAZZERS
